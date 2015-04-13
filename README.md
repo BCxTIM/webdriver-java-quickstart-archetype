@@ -5,7 +5,7 @@ This archetype generates a small Maven project with Selenium WebDriver and TestN
 
 To install the archetype in your local repo:
 
-	git clone git://github.com/barancev/webdriver-java-quickstart-archetype.git
+	git clone https://github.com/BCxTIM/webdriver-java-quickstart-archetype.git
 	cd webdriver-java-quickstart-archetype
 	mvn install
 
